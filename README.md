@@ -8,7 +8,7 @@
 
 ## Usage
 - This mod is designed as an alternative to the default freecam mod, please disable the default if using this mod
-- The camera will anchor the entity in the center of the screen
+- The camera will anchor the entity in the center of the screen/
 
 ## Controls
 | Keys                             | Action                                        |
