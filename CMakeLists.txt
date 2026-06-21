@@ -23,6 +23,7 @@ target_link_libraries(FreecamAnchor
     ZHMModSDK
     Microsoft::DirectX-Guids
     Microsoft::DirectX-Headers
+    implot
 )
 
 install(TARGETS FreecamAnchor
