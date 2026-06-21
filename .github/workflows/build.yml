@@ -53,7 +53,7 @@ jobs:
         Copy-Item LICENSE -Destination _dist-release/LICENSE
 
     - name: Archive debug
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: MyMod-Debug
         path: _dist-debug/*
